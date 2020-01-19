@@ -1,1 +1,1 @@
-BlogNc(Blog No Code)
+BlogNC(Blog No Code)
