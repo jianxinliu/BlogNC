@@ -1,3 +1,1 @@
-# jianxinliue
-
-my blog without code.
+# my blog without code.
