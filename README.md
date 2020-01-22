@@ -7,7 +7,7 @@ BlogNC(Blog No Code)
 
 ## 日志
 
-1. [广丰方言闲侃](/journal/guangfeng.md) -post on 2020-01-22
+1. [广丰方言闲侃](/journal/guangfeng.md) - post on 2020-01-22
 
 ## 诗集
 
