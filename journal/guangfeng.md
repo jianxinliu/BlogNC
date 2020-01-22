@@ -65,7 +65,7 @@
 
 ## 四. 以上都是我自己瞎写的砖头，下面要说的这本书才是玉
 
-![封面](/assets/bookface.jpg)
+![封面](assets/bookface.jpg)
 
 《广丰方言》，编者李有祥，江西人民出版社，ISBN:978-7-210-06632-3。  从书中摘点有意思的。  
 
@@ -85,8 +85,8 @@
 
 还有很多有意思的，看个目录吧。 
 
-![目录1](/assets/content1.jpg)
+![目录1](assets/content1.jpg)
 
-![目录2](/assets/content2.jpg)
+![目录2](assets/content2.jpg)
 
-![目录3](/assets/content2.jpg)
+![目录3](assets/content2.jpg)
