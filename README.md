@@ -10,4 +10,4 @@ BlogNC(Blog No Code)
 
 ## 诗集
 
-1. [季秀](/poems/xiu.md)
+1. [季秀](/poems/xiu.md) - post on 2020-01-22
