@@ -14,3 +14,11 @@ BlogNC(Blog No Code)
 1. [季秀](/poems/xiu.md) - 2020-01-22
 2. [废话集](/poems/废话集.md)
 3. [更新……](/poems/append.md)
+
+
+
+
+
+
+
+[博客改进方法](https://zhuanlan.zhihu.com/p/94121927 ) & [another](https://zhuanlan.zhihu.com/p/51240503 ) & [doc](https://jekyllrb.com/docs/permalinks/ )
