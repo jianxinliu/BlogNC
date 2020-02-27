@@ -4,6 +4,9 @@ BlogNC(Blog No Code)
 
 1. 《[狩猎](/movie_review/the_hunt.md)》 - 2020-01-21
 
+## 书评
+
+1. 《被讨厌的勇气》
 
 ## 日志
 
