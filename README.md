@@ -3,6 +3,7 @@ BlogNC(Blog No Code)
 ## 影评
 
 1. 《[狩猎](/movie_review/the_hunt.md)》 - 2020-01-21
+2. 《超脱》
 
 ## 书评
 
